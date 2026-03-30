@@ -1,4 +1,4 @@
-# 🖥️ Hi, I'm Kheir a.k.a Ken Constpy.
+# 🖥️ Kheir
 
 
 I'm a sophomore Computer Sceince student, pasionate in making purposive projects with creativity, clean and meaningful design. I'm good at analytical thinking that I can solve a problem logically. I build prototypes projects such as messaging apps, portfolios, calculating and analytic apps with API.
